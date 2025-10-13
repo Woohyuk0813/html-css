@@ -1,0 +1,15 @@
+#p1 {
+  color: white;
+  background-color: darkblue;
+  display: inline-block;
+}
+
+#a1 {
+  width: 600px;
+  text-align: center;
+}
+
+#a2 {
+  color: red;
+  font-weight: bold;
+}
